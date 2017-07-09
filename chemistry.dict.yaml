@@ -7,7 +7,7 @@
 ---
 name: chemistry
 version: "2.5"
-sort: original
+sort: by_weight
 ...
 
 # 无机物
@@ -23,12 +23,10 @@ sort: original
 氦	he
 氦气	he
 
-
 锂	li
 氢化锂	lih
 氢氧化锂	lioh
 硫化锂	lis
-
 
 铍	be
 氢氧化铍	be(oh)2
@@ -49,7 +47,6 @@ sort: original
 氟化硼	bf3
 碳化硼	b4c
 
-
 碳	c
 石墨	c
 金刚石	c
@@ -69,12 +66,10 @@ sort: original
 硫氰化铁	fe(scn)3
 氰化铜	cu(cn)2
 氰化亚铜	cucn
-	
-	
+		
 雷酸	honc
 雷酸汞	hg(onc)2
 雷酸银	agonc
-
 
 氮	n
 氮气	n2
@@ -272,7 +267,10 @@ sort: original
 四氟化硅	sif4
 碳化硅	sic
 
-
+钪	sc
+氧化钪	sc2o3
+氯化钪	sccl3
+碳酸钪	sc2(co3)3
 
 
 
