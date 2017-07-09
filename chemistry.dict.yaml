@@ -1,0 +1,278 @@
+﻿# Rime dictionary
+# encoding: utf-8
+#
+# 化学词典
+#
+
+---
+name: chemistry
+version: "2.5"
+sort: original
+...
+
+# 无机物
+氢	h
+氢气	h2
+水	h2o
+氕	h
+氘	d
+重水	d2o
+超重水	t2o
+氚	t
+
+氦	he
+氦气	he
+
+
+锂	li
+氢化锂	lih
+氢氧化锂	lioh
+硫化锂	lis
+
+
+铍	be
+氢氧化铍	be(oh)2
+溴化铍	bebr2
+氯化铍	becl2
+碘化铍	bei2
+硫化铍	bes
+亚硫酸铍	beso3
+硝酸铍	be(no3)2
+碳酸铍	beco3
+硅酸铍	besio3
+
+
+硼	b
+硼酸	h3bo3
+氧化硼	b2o3
+氮化硼	bn
+氟化硼	bf3
+碳化硼	b4c
+
+
+碳	c
+石墨	c
+金刚石	c
+足球烯	c60
+一氧化碳	co
+二氧化碳	co2
+碳酸	h2co3
+四氯化碳	ccl4
+硫化碳	cs2
+氰	(cn)2
+硫氰	(scn)2
+氧氰	(ocn)2
+氢氰酸	hcn
+氰化钾	kcn
+氰化钠	nacn
+硫氰化钠	nascn
+硫氰化铁	fe(scn)3
+氰化铜	cu(cn)2
+氰化亚铜	cucn
+	
+	
+雷酸	honc
+雷酸汞	hg(onc)2
+雷酸银	agonc
+
+
+氮	n
+氮气	n2
+一氧化氮	no
+二氧化氮	no2
+一氧化二氮	n2o
+笑气	n2o
+硝酸	hno3
+氨气	nh3
+氨水	nh3 h2o
+一水合氨	nh3.h2o
+碳酸铵	(nh4)2co3
+碳酸氢铵	nh4hco3
+氯化铵	nh4cl
+溴化铵	nh4br
+碘化按	nh4i
+硝酸铵	nh4no3
+亚硫酸铵	(nh4)2so3
+硫酸铵	(nh4)2so4
+磷酸二氢铵	nh4h2po4
+磷酸氢二铵	(nh4)2hpo4
+	
+氰酸钾	kocn
+氰酸钠	nacno
+氰酸银	agcno
+氰酸铵	nh4cno
+	
+一水合氨	aoh
+碳酸铵	a2co3
+碳酸氢铵	ahco3
+氯化铵	acl
+溴化铵	abr
+碘化按	ai
+硝酸铵	ano3
+亚硫酸铵	a2so3
+硫酸铵	a2so4
+磷酸二氢铵	ah2po4
+磷酸氢二铵	a2hpo4
+
+氧	o
+氧气	o2
+臭氧	o3
+红氧	o8
+氟化氧	of2
+
+氟	f
+氟气	f2
+氟化氢	hf
+氢氟酸	hf
+
+氖	ne
+氖气	ne
+
+钠	na
+氢化钠	nah
+氧化钠	na2o
+过氧化钠	na2o2
+氢氧化钠	naoh
+火碱	naoh
+烧碱	naoh
+苛性钠	naoh
+碳酸钠	na2co3
+苏打	na2co3
+碳酸氢钠	nahco3
+小苏打	nahco3
+硝酸钠	nano3
+偏铝酸钠	naalo2
+硅酸钠	nasio3
+泡花碱	nasio3
+硫化钠	na2s
+硫酸钠	na2so4
+亚硫酸钠	na2so3
+硫代硫酸钠	na2s2o3
+大苏打	na2s2o3
+海波	na2s2o3	
+连二亚硫酸钠	na2s2o4	
+氯化钠	nacl
+食盐	nacl
+醋酸钠	ch3coona
+溴化钠	nabr
+碘化钠	nai
+亚硝酸钠	nano2
+次氯酸钠	naclo
+氯酸钠	naclo3
+氟化钠	naf
+叠氮化钠	nan3
+
+镁	mg
+氧化镁	mgo
+氮化镁	mg3n2
+氢氧化镁	mg(oh)2
+碳酸镁	mgco3
+碳酸氢镁	mghco3
+氯化镁	mgcl2
+溴化镁	mgbr2
+碘化镁	mgi2
+硝酸镁	mgno3
+硫酸镁	mgso4
+亚硫酸镁	mgso3
+硅酸镁	mgsio3
+硫化镁	mgs
+
+铝	al
+氧化铝	al2o3
+氢氧化铝	al(oh)3
+氯化铝	alcl3
+溴化铝	albr3
+碘化铝	ali3
+硝酸铝	al(no3)3
+硫酸铝	al2(so4)3
+磷化铝	alp
+硫化铝	al2s3
+
+磷	p
+红磷	p
+白磷	p
+氢化磷	ph3
+三氧化二磷	p2o3
+三氧化二磷	p4o6
+五氧化二磷	p2o5
+五氧化二磷	p4o10
+磷酸	h3po4
+三氯化磷	pcl3
+五氯化磷	pcl5
+溴化磷	pbr3
+碘化磷	pi3
+
+硫	s
+二氧化硫	so2
+三氧化硫	so3
+亚硫酸	h2so3
+硫酸	h2so4
+硫化氢	h2s
+氢硫酸	h3s
+
+氯	cl
+氯气	cl2
+氯化氢	hcl
+次氯酸	hclo
+氯酸	hclo3
+高氯酸	hclo4
+盐酸	hcl
+
+氩	ar
+氩气	ar
+
+钾	k
+氧化钾	k2o
+过氧化钾	k2o2
+超氧化钾	ko2
+氢氧化钾	koh
+氯化钾	kcl
+溴化钾	kbr
+碘化钾	ki
+硫化钾	k2s
+硫酸钾	k2so4
+亚硫酸钾	k2so3
+氯酸钾	kclo3
+硝酸钾	kno3
+磷酸钾	k3po4
+高锰酸钾	kmno4
+锰酸钾	k2mno4
+碳酸钾	k2co3
+十二水合硫酸铝钾	kal(so4)2.12h2o
+明矾	kal(so4)2.12h2o
+
+钙	ca
+氢化钙	cah2
+碳化钙	cac2
+氮化钙	ca3n2
+氧化钙	cao
+氟化钙	caf2
+氯化钙	cacl2
+溴化钙	cabr2
+碘化钙	cai2
+硫化钙	cas
+氢氧化钙	ca(oh)2
+熟石灰	ca(oh)2
+石灰水	ca(oh)2
+生石灰	cao
+硝酸钙	ca(no3)2
+硫酸钙	caso4
+亚硫酸钙	caso3
+碳酸钙	caco3
+碳酸氢钙	ca(hco3)2
+磷化钙	ca3p2
+次氯酸钙	ca(clo)2
+电石	cac2
+萤石	caf2
+石膏	caso4
+
+硅	si
+二氧化硅	sio2
+硅酸	hsio3
+四氟化硅	sif4
+碳化硅	sic
+
+
+
+
+
